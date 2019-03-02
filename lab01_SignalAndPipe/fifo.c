@@ -8,6 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define FIFO "fifo"
 
 pid_t firstChild, secondChild;
 
@@ -21,7 +22,7 @@ int main(void) {
 
     signal(SIGINT, sigintHandler);
 
-    if (mkfifo("FIFO", 0666) == -1 && errno != EEXIST) {
+    if (mkfifo(FIFO, 0666) == -1 && errno != EEXIST) {
         printf("Error: Can't create the pipe!");
         exit(-1);
     }
@@ -36,7 +37,7 @@ int main(void) {
         signal(SIGINT, SIG_IGN);
         signal(SIGUSR1, sigusrHandler);
 
-        if ((writeFd = open("FIFO", O_WRONLY)) == -1) {
+        if ((writeFd = open(FIFO, O_WRONLY)) == -1) {
             printf("FIFO writter open error!\n");
             exit(-1);
         }
@@ -60,7 +61,7 @@ int main(void) {
             signal(SIGINT, SIG_IGN);
             signal(SIGUSR2, sigusrHandler);
 
-            if ((readFd = open("FIFO", O_RDONLY)) == -1) {
+            if ((readFd = open(FIFO, O_RDONLY)) == -1) {
                 printf("FIFO reader open error!\n");
                 exit(-1);
             }
