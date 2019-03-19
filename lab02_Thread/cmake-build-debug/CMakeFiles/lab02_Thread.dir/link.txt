@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/lab02_Thread.dir/sync.c.o CMakeFiles/lab02_Thread.dir/main.c.o  -o lab02_Thread 

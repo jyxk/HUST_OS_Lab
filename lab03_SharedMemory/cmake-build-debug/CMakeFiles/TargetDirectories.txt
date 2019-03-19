@@ -1,0 +1,3 @@
+/home/jyxk/Code/OSLab/lab03_SharedMemory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/cmake-build-debug/CMakeFiles/edit_cache.dir
