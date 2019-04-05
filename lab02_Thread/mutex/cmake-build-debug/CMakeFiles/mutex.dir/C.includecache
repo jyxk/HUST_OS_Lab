@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/main.c
+sync.h
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/sync.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/sync.h
+sys/types.h
+-
+sys/sem.h
+-
+errno.h
+-
+

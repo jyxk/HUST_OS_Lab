@@ -1,0 +1,51 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_11a94/fast"
+/usr/bin/make -f CMakeFiles/cmTC_11a94.dir/build.make CMakeFiles/cmTC_11a94.dir/build
+make[1]: 进入目录“/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_11a94.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -std=gnu99 -o CMakeFiles/cmTC_11a94.dir/CheckSymbolExists.c.o   -c /home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_11a94
+/home/jyxk/Software/clion-2018.2.5/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11a94.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_11a94.dir/CheckSymbolExists.c.o  -o cmTC_11a94 
+/usr/bin/ld: CMakeFiles/cmTC_11a94.dir/CheckSymbolExists.c.o: in function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: 错误：ld 返回 1
+make[1]: *** [CMakeFiles/cmTC_11a94.dir/build.make:87：cmTC_11a94] 错误 1
+make[1]: 离开目录“/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_11a94/fast] 错误 2
+
+File /home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cf795/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cf795.dir/build.make CMakeFiles/cmTC_cf795.dir/build
+make[1]: 进入目录“/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_cf795.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -std=gnu99 -o CMakeFiles/cmTC_cf795.dir/CheckFunctionExists.c.o   -c /home/jyxk/Software/clion-2018.2.5/bin/cmake/linux/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cf795
+/home/jyxk/Software/clion-2018.2.5/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf795.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_cf795.dir/CheckFunctionExists.c.o  -o cmTC_cf795 -lpthreads 
+/usr/bin/ld: 找不到 -lpthreads
+collect2: 错误：ld 返回 1
+make[1]: *** [CMakeFiles/cmTC_cf795.dir/build.make:87：cmTC_cf795] 错误 1
+make[1]: 离开目录“/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_cf795/fast] 错误 2
+
+

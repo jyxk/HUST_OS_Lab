@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/jyxk/Code/OSLab/lab03_SharedMemory/main.c" "/home/jyxk/Code/OSLab/lab03_SharedMemory/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/main.c.o"
   "/home/jyxk/Code/OSLab/lab03_SharedMemory/sem.c" "/home/jyxk/Code/OSLab/lab03_SharedMemory/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/sem.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

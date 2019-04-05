@@ -111,17 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named lab03_SharedMemory
+# Target rules for targets named cp
 
 # Build rule for target.
-lab03_SharedMemory: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 lab03_SharedMemory
-.PHONY : lab03_SharedMemory
+cp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 cp
+.PHONY : cp
 
 # fast build rule for target.
-lab03_SharedMemory/fast:
-	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/build
-.PHONY : lab03_SharedMemory/fast
+cp/fast:
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/build
+.PHONY : cp/fast
+
+main.o: main.c.o
+
+.PHONY : main.o
+
+# target to build an object file
+main.c.o:
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/main.c.o
+.PHONY : main.c.o
+
+main.i: main.c.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.c.i:
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/main.c.i
+.PHONY : main.c.i
+
+main.s: main.c.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.c.s:
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/main.c.s
+.PHONY : main.c.s
 
 sem.o: sem.c.o
 
@@ -129,7 +156,7 @@ sem.o: sem.c.o
 
 # target to build an object file
 sem.c.o:
-	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.o
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/sem.c.o
 .PHONY : sem.c.o
 
 sem.i: sem.c.i
@@ -138,7 +165,7 @@ sem.i: sem.c.i
 
 # target to preprocess a source file
 sem.c.i:
-	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.i
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/sem.c.i
 .PHONY : sem.c.i
 
 sem.s: sem.c.s
@@ -147,7 +174,7 @@ sem.s: sem.c.s
 
 # target to generate assembly for a file
 sem.c.s:
-	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.s
+	$(MAKE) -f CMakeFiles/cp.dir/build.make CMakeFiles/cp.dir/sem.c.s
 .PHONY : sem.c.s
 
 # Help Target
@@ -157,8 +184,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... lab03_SharedMemory"
+	@echo "... cp"
 	@echo "... edit_cache"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 	@echo "... sem.o"
 	@echo "... sem.i"
 	@echo "... sem.s"

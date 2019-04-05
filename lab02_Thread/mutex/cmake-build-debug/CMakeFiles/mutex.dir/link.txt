@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/mutex.dir/main.c.o CMakeFiles/mutex.dir/sync.c.o  -o mutex 

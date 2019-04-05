@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jyxk/Code/OSLab/labExtra_ls/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+dirent.h
+-
+unistd.h
+-
+sys/stat.h
+-
+string.h
+-
+time.h
+-
+

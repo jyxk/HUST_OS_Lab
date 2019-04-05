@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/lab03_SharedMemory.dir/sem.c.o  -o lab03_SharedMemory 
+/usr/bin/cc -g   CMakeFiles/lab03_SharedMemory.dir/sem.c.o CMakeFiles/lab03_SharedMemory.dir/main.c.o  -o lab03_SharedMemory 

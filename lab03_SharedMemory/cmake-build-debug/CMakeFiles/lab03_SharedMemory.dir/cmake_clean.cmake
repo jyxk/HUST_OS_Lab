@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/lab03_SharedMemory.dir/sem.c.o"
+  "CMakeFiles/lab03_SharedMemory.dir/main.c.o"
   "lab03_SharedMemory.pdb"
   "lab03_SharedMemory"
 )

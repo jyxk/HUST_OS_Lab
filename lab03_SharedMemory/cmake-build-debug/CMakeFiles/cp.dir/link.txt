@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cp.dir/sem.c.o CMakeFiles/cp.dir/main.c.o  -o cp 

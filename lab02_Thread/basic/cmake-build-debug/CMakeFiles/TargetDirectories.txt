@@ -1,0 +1,3 @@
+/home/jyxk/Code/OSLab/lab02_Thread/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jyxk/Code/OSLab/lab02_Thread/basic/cmake-build-debug/CMakeFiles/lab02_Thread.dir
+/home/jyxk/Code/OSLab/lab02_Thread/basic/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jyxk/Code/OSLab/lab02_Thread/basic/main.c
+sync.h
+/home/jyxk/Code/OSLab/lab02_Thread/basic/sync.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+
+/home/jyxk/Code/OSLab/lab02_Thread/basic/sync.h
+sys/types.h
+-
+sys/sem.h
+-
+errno.h
+-
+

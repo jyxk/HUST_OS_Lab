@@ -3,4 +3,4 @@ project(lab03_SharedMemory C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(lab03_SharedMemory sem.c)
+add_executable(cp sem.c main.c)

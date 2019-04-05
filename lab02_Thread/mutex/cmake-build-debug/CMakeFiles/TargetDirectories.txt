@@ -1,0 +1,3 @@
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/mutex.dir
+/home/jyxk/Code/OSLab/lab02_Thread/mutex/cmake-build-debug/CMakeFiles/edit_cache.dir
