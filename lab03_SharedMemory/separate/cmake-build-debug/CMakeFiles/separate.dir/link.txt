@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/separate.dir/reader.c.o CMakeFiles/separate.dir/sem.c.o  -o separate 

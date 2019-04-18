@@ -1,0 +1,68 @@
+ir/build.make CMakeFiles/lab03_SharedMemory.dir/main.c.i
+.PHONY : main.c.i
+
+main.s: main.c.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.c.s:
+	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/main.c.s
+.PHONY : main.c.s
+
+sem.o: sem.c.o
+
+.PHONY : sem.o
+
+# target to build an object file
+sem.c.o:
+	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.o
+.PHONY : sem.c.o
+
+sem.i: sem.c.i
+
+.PHONY : sem.i
+
+# target to preprocess a source file
+sem.c.i:
+	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.i
+.PHONY : sem.c.i
+
+sem.s: sem.c.s
+
+.PHONY : sem.s
+
+# target to generate assembly for a file
+sem.c.s:
+	$(MAKE) -f CMakeFiles/lab03_SharedMemory.dir/build.make CMakeFiles/lab03_SharedMemory.dir/sem.c.s
+.PHONY : sem.c.s
+
+# Help Target
+help:
+	@echo "The following are some of the valid targets for this Makefile:"
+	@echo "... all (the default if no target is provided)"
+	@echo "... clean"
+	@echo "... depend"
+	@echo "... rebuild_cache"
+	@echo "... lab03_SharedMemory"
+	@echo "... edit_cache"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
+	@echo "... sem.o"
+	@echo "... sem.i"
+	@echo "... sem.s"
+.PHONY : help
+
+
+
+#=============================================================================
+# Special targets to cleanup operation of make.
+
+# Special rule to run CMake to check the build system integrity.
+# No rule that depends on this can have commands that come from listfiles
+# because they might be regenerated.
+cmake_check_build_system:
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+.PHONY : cmake_check_build_system
+

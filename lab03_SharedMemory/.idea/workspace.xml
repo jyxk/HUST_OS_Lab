@@ -11,79 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b052e7-7922-40b0-beef-888cc037fec1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/basic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/mutex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/mutex/sync.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab02_Thread/mutex/sync.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../labExtra_ls/.idea/labExtra_ls.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../labExtra_ls/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../labExtra_ls/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../labExtra_ls/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab01_SignalAndPipe/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02_Thread/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/lab02_Thread.dir/sync.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/lab02_Thread" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/cmake-build-debug/lab02_Thread.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/sync.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02_Thread/sync.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lab03_SharedMemory.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lab03_SharedMemory.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shm.h" beforeDir="false" afterPath="$PROJECT_DIR$/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writer.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="93b052e7-7922-40b0-beef-888cc037fec1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +58,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-29">
+            <state relative-caret-position="24">
               <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
@@ -230,16 +158,18 @@
       <workItem from="1554184673869" duration="1269000" />
       <workItem from="1554189750501" duration="858000" />
       <workItem from="1554193760001" duration="2146000" />
+      <workItem from="1554605123541" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30387000" />
+    <option name="totallyTimeSpent" value="30396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="42" width="2560" height="1398" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17335473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17536116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -298,7 +228,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
+        <state relative-caret-position="24">
           <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />

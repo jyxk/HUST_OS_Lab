@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/reader.dir/reader.c.o CMakeFiles/reader.dir/sem.c.o  -o reader 

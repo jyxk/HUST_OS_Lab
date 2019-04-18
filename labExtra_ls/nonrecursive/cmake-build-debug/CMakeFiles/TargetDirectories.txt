@@ -1,0 +1,3 @@
+/home/jyxk/Code/OSLab/labExtra_ls/nonrecursive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jyxk/Code/OSLab/labExtra_ls/nonrecursive/cmake-build-debug/CMakeFiles/nonrecursive.dir
+/home/jyxk/Code/OSLab/labExtra_ls/nonrecursive/cmake-build-debug/CMakeFiles/edit_cache.dir

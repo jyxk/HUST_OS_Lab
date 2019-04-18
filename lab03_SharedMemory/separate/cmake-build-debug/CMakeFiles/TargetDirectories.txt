@@ -1,0 +1,5 @@
+/home/jyxk/Code/OSLab/lab03_SharedMemory/separate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/separate/cmake-build-debug/CMakeFiles/writer.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/separate/cmake-build-debug/CMakeFiles/main.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/separate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jyxk/Code/OSLab/lab03_SharedMemory/separate/cmake-build-debug/CMakeFiles/reader.dir
