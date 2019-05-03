@@ -1,0 +1,6 @@
+COMPONENT=BlinkAppC
+CFLAGS += -I$(TINYOS_OS_DIR)/lib/printf
+TINYOS_ROOT_DIR?=/home/jyxk/tinyos-main
+PFLAGS += -DNEW_PRINTF_SEMANTICS
+CFLAGS += -DPRINTF_BUFFER_SIZE=1024
+include $(TINYOS_ROOT_DIR)/Makefile.include

@@ -14,122 +14,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e4c45eb-a845-458a-b14f-ce87ed5096f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/separate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single/.idea/single.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/nonrecursive/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/nonrecursive/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/nonrecursive/.idea/nonrecursive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/nonrecursive/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/recursive/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/recursive/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/recursive/.idea/recursive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/recursive/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labExtra_ls/recursive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab02_Thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab02_Thread/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cp.dir/sem.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/lab03_SharedMemory.dir/sem.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/cp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/lab03_SharedMemory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/lab03_SharedMemory.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sem.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/labExtra_ls.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/labExtra_ls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/labExtra_ls.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/cmake-build-debug/vgcore.21512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../labExtra_ls/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/reader.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/reader.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/reader.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/reader.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/writer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/writer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/writer.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/writer.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/BlinkAppC.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/BlinkC.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/app.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/ident_flags.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/main.ihex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/main.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/main.sym" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/tos_buildinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/tos_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task1/build/telosb/wiring-check.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/BlinkAppC.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/BlinkC.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/app.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/ident_flags.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/main.ihex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/main.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/main.sym" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/tos_buildinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/tos_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab04_tinyos/task2/build/telosb/wiring-check.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -144,20 +69,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="1296">
               <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="379">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#86#108#0" expanded="true" />
               </folding>
@@ -168,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/writer.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="1008">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#38#56#0" expanded="true" />
@@ -180,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reader.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="888">
+            <state relative-caret-position="1392">
               <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding>
                 <element signature="e#38#56#0" expanded="true" />
@@ -210,8 +135,8 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1272" />
     <option name="y" value="42" />
     <option name="width" value="1288" />
     <option name="height" value="1398" />
@@ -298,14 +223,16 @@
       <workItem from="1555394622884" duration="414000" />
       <workItem from="1555506573103" duration="5694000" />
       <workItem from="1555561703992" duration="2610000" />
+      <workItem from="1556009604527" duration="20000" />
+      <workItem from="1556009682443" duration="384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32964000" />
+    <option name="totallyTimeSpent" value="33368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="42" width="1288" height="1398" extended-state="0" />
+    <frame x="0" y="42" width="2560" height="1398" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22508305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,7 +285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/writer.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="1008">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#38#56#0" expanded="true" />
@@ -368,7 +295,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reader.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
+        <state relative-caret-position="1392">
           <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
           <folding>
             <element signature="e#38#56#0" expanded="true" />
@@ -376,20 +303,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="379">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#86#108#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
         </state>
       </provider>
     </entry>
